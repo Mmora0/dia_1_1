@@ -1,0 +1,19 @@
+h1{
+    color: #352e5e;
+}
+h2{
+    color: #643973;
+}
+
+h3{
+    color: #a5498c;
+}
+h4{
+    color: #fb62a4;
+}
+.dia{
+    color: red;
+}
+body{
+    background-color: rgba(248, 188, 228, 0.74);
+}
